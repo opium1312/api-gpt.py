@@ -4,7 +4,7 @@ import openai
 import os
 
 # Insérez votre clé API OpenAI ici
-openai.api_key = "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"
+openai.api_key = ""
 
 # Définissez le chemin du répertoire du programme à lancer
 chemin_programme = __file__
